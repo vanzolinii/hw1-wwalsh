@@ -10,9 +10,11 @@ This repository contains my Homework 1 submission for BU.330.760.41.SP26 Generat
 - Made commits after each major step: setup, AI draft, and manual edits
 
 ## Commit Summary
-1. `repository setup` — created initial files
-2. `assistant-created draft` — used Claude Code to write assistant_draft.md
-3. `my own edited version` — made manual edits in final_version.md
+1. `8f0764d` Initial commit
+2. `387c962` repository setup
+3. `c4a1482` Add bio content and gen AI use cases to assistant_draft.md
+4. `2670fe3` Add final revised version of bio with documented edits
+5. `e6bbd8a` update README with git summary
 
 ## Video Walkthrough
 [Link coming soon]
