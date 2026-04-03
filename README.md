@@ -17,4 +17,4 @@ This repository contains my Homework 1 submission for BU.330.760.41.SP26 Generat
 5. `e6bbd8a` update README with git summary
 
 ## Video Walkthrough
-[Link coming soon]
+[https://youtu.be/IZ8VPo8FEjk](https://youtu.be/IZ8VPo8FEjk)
